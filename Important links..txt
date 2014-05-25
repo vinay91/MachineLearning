@@ -1,0 +1,5 @@
+http://share.coursera.org/wiki/ (Orignal CourseWiki)
+
+http://www.holehouse.org/mlclass/  (Contains all info of coursewiki plus some additional explanations)
+
+https://share.coursera.org/wiki/index.php/ML:Useful_Resources#Informative_Web_Sites (Useful ML resources)
